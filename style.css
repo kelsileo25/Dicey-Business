@@ -1,0 +1,15 @@
+.square-button {
+    display: inline-block;
+}
+
+.dice {
+    display: inline-flex;
+    flex-wrap: wrap;
+    font-size: 25vh;
+    margin: 1.5px;
+}
+
+div {
+    align-items: center;
+    justify-content: center;
+}
